@@ -6,4 +6,4 @@
 * This model became 2nd in the final phase of the Machine Learning (CS412) Competiton from Sabancı University Fall 2022-2023 by achieving MSE = 0.127797
 
 
-* Detailed project description and the competition results can be seen from this [LINK](http://www.onurvarol.com/Annotation-CS412-202201/)
+* Detailed project description and the competition results can be seen from this [LINK](http://www.onurvarol.com/Annotation-CS412-202201/round3.html)
